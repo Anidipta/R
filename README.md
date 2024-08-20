@@ -3,7 +3,7 @@
 
 Welcome to this data analysis project! Below is a summary of the tasks and analyses conducted using R.
 
-## 🛒 Association Rule Mining with `GrocBinary.csv`
+## 🛒 Association Rule Mining with `GrocBinary24.csv`
 
 1. **Frequent Itemsets**: 
    - 🔍 Identified all frequent itemsets with a minimum support of 30%.
