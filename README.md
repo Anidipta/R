@@ -1,7 +1,7 @@
 
 # 📊 R Script for Data Analysis
 
-Welcome to this data analysis project! Below is a summary of the tasks and analyses conducted using R.
+Welcome to Day 4 of this data analysis project! Below is a summary of the tasks and analyses conducted using R.
 
 ## 🛒 Association Rule Mining with `GrocBinary24.csv`
 
