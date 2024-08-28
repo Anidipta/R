@@ -1,0 +1,57 @@
+﻿T,Milk,Bread,Coffee,Beer,Diaper,Age,Income,Sex
+T100,1,1,0,0,1,Middle,Very High,M
+T200,0,1,0,1,0,Senior,High,M
+T300,0,1,1,0,0,Young,High,F
+T400,1,1,0,1,0,Middle,Low,F
+T500,1,0,1,0,0,Middle,High,F
+T600,0,1,1,0,0,Young,Very High,M
+T700,1,0,1,0,0,Senior,Low,F
+T800,1,1,1,0,1,Senior,Low,F
+T900,1,1,1,0,0,Young,High,M
+T1000,1,1,0,1,1,Middle,Very Hgh,M
+T1100,0,1,0,1,0,Senior,High,M
+T1200,0,1,1,0,0,Young,High,M
+T1300,1,1,0,1,0,Middle,Low,F
+T1400,1,0,1,0,0,Middle,High,F
+T1500,0,1,1,0,0,Young,Very High,M
+T1600,1,0,1,0,0,Senior,High,F
+T1700,1,1,1,1,1,Senior,High,F
+T1800,1,1,1,0,0,Young,High,M
+T1900,1,1,0,0,1,Middle,Very High,M
+T2000,0,1,0,1,0,Senior,High,M
+T2100,0,1,1,0,0,Young,High,F
+T2200,1,1,0,1,0,Middle,Low,F
+T2300,1,1,1,0,0,Middle,High,F
+T2400,0,1,1,0,0,Young,Very High,M
+T2500,1,0,1,0,0,Young,High,F
+T2600,1,1,1,1,1,Senior,Low,F
+T2700,1,1,1,0,0,Young,High,M
+T2800,1,1,0,1,1,Middle,Very High,M
+T2900,0,1,0,1,0,Senior,High,M
+T3000,0,1,1,0,0,Young,High,M
+T3100,1,1,0,1,0,Middle,High,F
+T3200,1,0,1,0,0,Middle,High,F
+T3300,0,1,1,1,0,Young,Very High,M
+T3400,1,0,1,0,0,Senior,High,F
+T3500,1,1,1,1,1,Senior,Low,F
+T3600,1,1,1,1,0,Young,High,M
+T3700,1,1,1,1,1,Senior,High,F
+T3800,1,1,0,0,0,Young,High,M
+T3900,1,0,1,0,1,Middle,Very High,M
+T4000,0,1,0,1,0,Senior,High,M
+T4100,0,1,1,0,0,Young,High,F
+T4200,1,1,1,1,0,Middle,Low,F
+T4300,1,1,1,0,0,Middle,High,F
+T4400,0,1,1,0,0,Young,Very High,M
+T4500,1,1,1,0,0,Young,High,F
+T4600,1,1,1,1,1,Senior,Low,F
+T4700,1,0,1,0,0,Young,High,M
+T4800,1,1,0,1,1,Middle,Very High,M
+T4900,0,1,0,1,0,Senior,High,M
+T5000,0,1,1,0,0,Young,High,M
+T5100,1,1,0,1,0,Middle,High,F
+T5200,1,0,1,0,0,Middle,High,F
+T5300,0,1,1,1,0,Young,Very High,M
+T5400,1,0,1,0,0,Senior,High,F
+T5500,1,1,1,1,1,Senior,Low,F
+T5600,1,1,1,0,0,Young,High,M

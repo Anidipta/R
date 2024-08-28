@@ -1,0 +1,7 @@
+auto<- read.csv('auto-mpg.csv')
+print(paste("Number of rows -->",nrow(auto)))
+print(paste("Number of coumns -->",ncol(auto)))
+print("Column names -->")
+print(colnames(auto))
+print("Summary -->\n")
+print(summary(auto))
